@@ -9,6 +9,7 @@ public class SpringBootApp1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootApp1Application.class, args);
 		System.out.println("Hello");
+		System.out.println("java");
 	}
 
 }
